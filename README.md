@@ -1,5 +1,2 @@
-# SpringBeginnerAnswer# SpringBeginnerEasy
+# Udemy SpringBoot2講座用リポジトリ
 
-ToDo
-・ReadMeの記載方法について確認
-・プロジェクトごとの説明整理
